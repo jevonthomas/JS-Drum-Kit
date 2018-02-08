@@ -7,7 +7,7 @@ This feature was a great way to practice key events, playing audio, and listenin
 
 ## <p style="color: green;">Link to the Challenge</p>
 
-- [Javascript30](https://javascript30.com)
+[Javascript30](https://javascript30.com)
 
 
 ## <p style="color: green;">Developer</p>
